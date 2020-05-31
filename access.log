@@ -7252,3 +7252,14 @@ e74b5ea0-a357-11ea-93b6-cda9f6ce9395: ::1 GET /register/starter-template.css 521
 5e91bb80-a358-11ea-93b6-cda9f6ce9395: ::1 GET /dist/css/bootstrap.min.css 3.365
 5eae9250-a358-11ea-93b6-cda9f6ce9395: ::1 GET /dist/css/bootstrap.min.css 0.729
 5e9209a0-a358-11ea-93b6-cda9f6ce9395: ::1 GET /register/starter-template.css 313.023
+13dfce40-a35a-11ea-a896-d7d54c737e65: ::1 GET / 26.618
+13f48ec0-a35a-11ea-a896-d7d54c737e65: ::1 GET /css/main.css 2.806
+13f74de0-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/jquery/jquery-3.2.1.min.js 0.834
+13fc7e00-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/animsition/js/animsition.min.js 0.689
+13fd8f70-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/bootstrap/js/popper.js 3.152
+13fdb680-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/bootstrap/js/bootstrap.min.js 3.033
+13fddd90-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/select2/select2.min.js 2.887
+13fddd91-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/daterangepicker/moment.min.js 4.512
+13fe79d0-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/daterangepicker/daterangepicker.js 2.494
+13fe79d1-a35a-11ea-a896-d7d54c737e65: ::1 GET /vendor/countdowntime/countdowntime.js 2.471
+1400ead0-a35a-11ea-a896-d7d54c737e65: ::1 GET /js/main.js 0.665
